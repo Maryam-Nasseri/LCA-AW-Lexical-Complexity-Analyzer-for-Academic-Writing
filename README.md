@@ -3,14 +3,17 @@ LCA-AW (Lexical Complexity Analyzer for Academic Writing); version 2.1.
 
 This code is a modified version of the LCA (lexical complexity analyzer, described in Lu, 2012). The modified version integrated the BAWE (British Academic Written English) corpus' word list, the bawe_list.txt, that is a list of most frequently-used academic writing words in linguistics-related disciplines and language studies. The BNC-British National Corpus (or an option to use ANC- American National Corpus,) and the BAWE word lists act as filters for calculating lexical sophistication indices (see Lu, 2012). LCA-AW, will be suitable for analysing lexical complexity of academic writing in linguistics-related disciplines.
 
+
 1- Copyright and Citation information:
 
 LCA-AW (Lexical Complexity Analyzer for Academic Writing, Nasseri and Lu, 2019); version 2.1
 Copyright (C) 2019 Maryam Nasseri (University of Birmingham) and Xiaofei Lu (The Pennsylvania State University) 
 
+DOI: 10.5281/zenodo.2537862
+https://doi.org/10.5281/zenodo.2537862
+
 If you use LCA-AW in your research, please refer to it as "LCA-AW (Nasseri and Lu, 2019), 
 a modified version of the LCA (Lexical Complexity Analyzer, Lu, 2012)" in your text.
-
 
 The original LCA:
 The original LCA Version 1.1 Released on February 12, 2013; Copyright (C) 2013 Xiaofei Lu
