@@ -19,7 +19,7 @@ If you use LCA-AW in your research, please refer to it as "Lexical Complexity An
 a modified version of the LCA (Lexical Complexity Analyzer, Lu, 2012)" in your text.
 
 **Citing in references:**
-Nasseri, M., & Lu, X. (2019).Lexical Complexity Analyzer for Academic Writing (LCA-AW,version 2.1). DOI: DOI: 10.5281/zenodo.2537862
+Nasseri, M., & Lu, X. (2019).Lexical Complexity Analyzer for Academic Writing (LCA-AW,version 2.1). DOI: 10.5281/zenodo.2537862
 
 
 The original LCA:
