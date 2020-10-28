@@ -1,5 +1,7 @@
 # LCA-AW-Lexical-Complexity-Analyzer-for-Academic-Writing
 
+https://img.shields.io/github/v/release/Maryam-Nasseri/LCA-AW-Lexical-Complexity-Analyzer-for-Academic-Writing
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2537862.svg)](https://doi.org/10.5281/zenodo.2537862)
 
 LCA-AW (Lexical Complexity Analyzer for Academic Writing); version 2.1. 
