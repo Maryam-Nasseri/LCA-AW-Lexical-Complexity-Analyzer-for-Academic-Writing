@@ -1,5 +1,7 @@
 # LCA-AW-Lexical-Complexity-Analyzer-for-Academic-Writing
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2537862.svg)](https://doi.org/10.5281/zenodo.2537862)
+
 LCA-AW (Lexical Complexity Analyzer for Academic Writing); version 2.1. 
 
 This code is a modified version of the LCA (lexical complexity analyzer, described in Lu, 2012). The modified version integrated the BAWE (British Academic Written English) corpus' word list, the bawe_list.txt, that is a list of most frequently-used academic writing words in linguistics-related disciplines and language studies. The BNC-British National Corpus (or an option to use ANC- American National Corpus,) and the BAWE word lists act as filters for calculating lexical sophistication indices (see Lu, 2012). LCA-AW, will be suitable for analysing lexical complexity of academic writing in linguistics-related disciplines.
