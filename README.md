@@ -9,7 +9,7 @@ This code is a modified version of the LCA (lexical complexity analyzer, describ
 for Python 2 users only
 
 
-1- Copyright and Citation information:
+**1- Copyright and Citation information:**
 
 LCA-AW (Lexical Complexity Analyzer for Academic Writing, Nasseri and Lu, 2019); version 2.1
 Copyright (C) 2019 Maryam Nasseri (University of Birmingham) and Xiaofei Lu (The Pennsylvania State University) 
@@ -29,7 +29,7 @@ Lu, Xiaofei (2012). The relationship of lexical richnes to the quality
 of ESL speakers' oral narratives. The Modern Language Journal, 96(2), 190-208. 
 
 
-2- GNU and free software:
+**2- GNU and free software:**
  
 This program is free software; you can redistribute it and/or modify it under 
 the terms of the GNU General Public License as published by the Free Software 
@@ -48,7 +48,7 @@ Place, Suite 330, Boston, MA  02111-1307  USA
         
 
 
-3- About LCA-AW:
+**3- About LCA-AW:**
 
 This tool computes the lexical complexity of English texts using 25 different 
 lexical measures that are reported in the literature to be indicative and/or 
@@ -62,9 +62,9 @@ in the top 2000 most frequently-used words in the BNC
 (or ANC) nor in the 100 most frequently-used academic words in the BAWE word list.
 
 
-4- Running the tool
+**4- Running the tool**
 
-4.1 Input files: All input files must be POS-tagged and lemmatized first and 
+**4.1 Input files:** All input files must be POS-tagged and lemmatized first and 
 must be in the following format (see files in the samples folder for 
 examples). The file should contain a minumum of 50 words. 
 
@@ -99,7 +99,7 @@ awk '{print $3"_"$2}' TreeTaggerFile.txt > TreeTaggerFile_Reformatted.txt
 
 
 
-4.2 Analyzing a single file: To get the lexical complexity of a single file, 
+**4.2 Analyzing a single file:** To get the lexical complexity of a single file, 
 run the following from this directory. Replace input_file with the actual 
 name of your input file and output_file with the desired name of your output 
 file.
@@ -119,7 +119,7 @@ python lc-anc.py samples/1.lem > 1-anc.lex
 
 python lc-anc.py ~/corpus/programmes/LCA-AW/sample.lem > ~/corpus/programmes/LCA-AW/sample.lex
 
-4.3 Analyzing multiple files: To get the lexical complexity of two or more 
+**4.3 Analyzing multiple files:** To get the lexical complexity of two or more 
 files within a single folder, run the following from this directory. Replace 
 path_to_folder with the actual path to the folder that contains your files 
 and output_file with the desired name of your output file. The folder should 
@@ -141,9 +141,9 @@ python folder-lc-anc.py samples/ > samples-anc.lex
 python folder-lc-anc.py ~/corpus/programmes/LCA-AW/samples/ > ~/corpus/programmes/LCA-AW/outputsamples.lex
 
 
-4.4 Using the output: The output file is comma-delimited and can be loaded to 
+**4.4 Using the output:** The output file is comma-delimited and can be loaded to 
 excel and spss, or R directly for analysis.
 
-5- Report a problem
+**5- Report a problem**
 
 If you run into any problems while using the analyzer you can contact me https://www.researchgate.net/profile/Maryam_Nasseri
