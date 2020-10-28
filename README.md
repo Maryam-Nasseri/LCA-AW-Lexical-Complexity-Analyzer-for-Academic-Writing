@@ -17,6 +17,7 @@ Copyright (C) 2019 Maryam Nasseri (University of Birmingham) and Xiaofei Lu (The
 DOI: 10.5281/zenodo.2537862
 https://doi.org/10.5281/zenodo.2537862
 
+
 If you use LCA-AW in your research, please refer to it as "LCA-AW (Nasseri and Lu, 2019), 
 a modified version of the LCA (Lexical Complexity Analyzer, Lu, 2012)" in your text.
 
